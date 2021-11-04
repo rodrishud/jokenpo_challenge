@@ -1,4 +1,4 @@
-# jokenpo_challenge
+# JOKENPO CHALLENGE
 -A simple game to integrate the portifolio, to train basic concepts and try new functions.-
 
 A "rock-paper-scissors" game. The objective is to develop it, adding more functions through time.
